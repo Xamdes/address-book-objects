@@ -14,6 +14,7 @@ Address Book
 
 ## About
 
+Follow along with this weekend's homework to create an address book application using constructors and prototypes.
 
 ## Specifications Outline:
 
@@ -25,6 +26,7 @@ HTML, CSS, Javascript, jQuery, arrays, objects
 ## Installation
 Clone from:
 https://github.com/Xamdes/address-book-objects.git
+https://github.com/bpalowski/address-book-objects.git
 
 
 ## License
