@@ -1,4 +1,4 @@
-# Epicodus Week 4 Day 1 Roman Numerals Project
+# Epicodus Week 4 Day 1 Address Book Project
 
 ## Author
 
